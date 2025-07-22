@@ -8,4 +8,5 @@ This project uses the Support Vector Machine (SVM) algorithm to predict whether 
 * **SVM Model Implementation**: Initializes and trains a Support Vector Machine (SVM) classifier using a linear kernel to classify loan applications.
 * **Model Evaluation**: Assesses the model's accuracy on both the training and unseen test datasets to determine its effectiveness.
 
-This project serves as a practical demonstration of applying machine learning, specifically SVM, to solve a real-world binary classification problem in the financial sector.
+This project shows how to apply machine learning, specifically SVM, to address a real-world binary classification problem in the financial sector.
+
